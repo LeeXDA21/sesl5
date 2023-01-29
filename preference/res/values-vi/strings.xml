@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"TẮT"</string>
+    <string name="not_set">"Chưa đặt"</string>
+    <string name="preference_copied">"Đã sao chép \"%1$s\" vào bảng nhớ tạm."</string>
+    <string name="v7_preference_on">"BẬT"</string>
+    <string name="sesl_preferencecategory_added_title">Tiêu đề</string>
+    <string name="expand_button_title">"Nâng cao"</string>
+    <string name="copy">"Sao chép"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"NONAKTIF"</string>
+    <string name="not_set">"Belum disetel"</string>
+    <string name="preference_copied">"\"%1$s\" disalin ke papan klip."</string>
+    <string name="v7_preference_on">"AKTIF"</string>
+    <string name="sesl_preferencecategory_added_title">Header</string>
+    <string name="expand_button_title">"Lanjutan"</string>
+    <string name="copy">"Salin"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

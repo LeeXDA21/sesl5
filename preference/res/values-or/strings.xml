@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"ବନ୍ଦ"</string>
+    <string name="not_set">"ସେଟ୍ ହୋଇନାହିଁ"</string>
+    <string name="preference_copied">"\"%1$s\" କ୍ଲିପବୋର୍ଡକୁ କପି ହୋ‍ଇଗଲା।"</string>
+    <string name="v7_preference_on">"ଚାଲୁ ଅଛି"</string>
+    <string name="sesl_preferencecategory_added_title">ଶୀର୍ଷଲେଖ</string>
+    <string name="expand_button_title">"ଅଧିକ ଉନ୍ନତ"</string>
+    <string name="copy">"କପି କରନ୍ତୁ"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

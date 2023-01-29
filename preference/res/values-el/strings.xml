@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"ΑΝΕΝΕΡΓΗ"</string>
+    <string name="not_set">"Δεν έχει οριστεί"</string>
+    <string name="preference_copied">"Το \"%1$s\" αντιγράφηκε στο πρόχειρο."</string>
+    <string name="v7_preference_on">"ΕΝΕΡΓΗ"</string>
+    <string name="sesl_preferencecategory_added_title">Επικεφαλίδα</string>
+    <string name="expand_button_title">"Σύνθετες"</string>
+    <string name="copy">"Αντιγραφή"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

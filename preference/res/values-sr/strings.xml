@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"ИСКЉУЧЕНО"</string>
+    <string name="not_set">"Није подешено"</string>
+    <string name="preference_copied">"Резиме „%1$s“ је копиран у привремену меморију."</string>
+    <string name="v7_preference_on">"УКЉУЧЕНО"</string>
+    <string name="sesl_preferencecategory_added_title">Zaglavlje</string>
+    <string name="expand_button_title">"Напредно"</string>
+    <string name="copy">"Копирај"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

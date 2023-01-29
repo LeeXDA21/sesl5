@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"DESATIVADO"</string>
+    <string name="not_set">"Não definido"</string>
+    <string name="preference_copied">"\"%1$s\" copiado para a área de transferência."</string>
+    <string name="v7_preference_on">"ATIVADO"</string>
+    <string name="sesl_preferencecategory_added_title">Título</string>
+    <string name="expand_button_title">"Avançado"</string>
+    <string name="copy">"Copiar"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

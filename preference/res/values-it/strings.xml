@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"OFF"</string>
+    <string name="not_set">"Non impostato"</string>
+    <string name="preference_copied">"\"%1$s\"copiato negli appunti."</string>
+    <string name="v7_preference_on">"ON"</string>
+    <string name="sesl_preferencecategory_added_title">Intestazione</string>
+    <string name="expand_button_title">"Avanzate"</string>
+    <string name="copy">"Copia"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"WYŁ."</string>
+    <string name="not_set">"Nie ustawiono"</string>
+    <string name="preference_copied">"Skopiowano „%1$s” do schowka."</string>
+    <string name="v7_preference_on">"WŁ."</string>
+    <string name="sesl_preferencecategory_added_title">Nagłówek</string>
+    <string name="expand_button_title">"Zaawansowane"</string>
+    <string name="copy">"Kopiuj"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

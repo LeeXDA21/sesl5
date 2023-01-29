@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"ISKLJUČENO"</string>
+    <string name="not_set">"Nije postavljeno"</string>
+    <string name="preference_copied">"Sažetak \"%1$s\" kopiran je u međuspremnik."</string>
+    <string name="v7_preference_on">"UKLJUČENO"</string>
+    <string name="sesl_preferencecategory_added_title">Zaglavlje</string>
+    <string name="expand_button_title">"Napredno"</string>
+    <string name="copy">"Kopiraj"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

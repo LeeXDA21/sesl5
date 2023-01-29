@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"AV"</string>
+    <string name="not_set">"Inte angett"</string>
+    <string name="preference_copied">"%1$s har kopierats till Urklipp."</string>
+    <string name="v7_preference_on">"PÅ"</string>
+    <string name="sesl_preferencecategory_added_title">Sidhuvud</string>
+    <string name="expand_button_title">"Avancerat"</string>
+    <string name="copy">"Kopiera"</string>
+    <string name="summary_collapsed_preference_list">"%1$s, %2$s"</string>
+</resources>

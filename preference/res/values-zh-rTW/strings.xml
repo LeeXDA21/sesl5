@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"關閉"</string>
+    <string name="not_set">"未設定"</string>
+    <string name="preference_copied">"已將「%1$s」複製到剪貼簿。"</string>
+    <string name="v7_preference_on">"開啟"</string>
+    <string name="sesl_preferencecategory_added_title">標題</string>
+    <string name="expand_button_title">"進階"</string>
+    <string name="copy">"複製"</string>
+    <string name="summary_collapsed_preference_list">"%1$s、%2$s"</string>
+</resources>

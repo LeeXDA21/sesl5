@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="v7_preference_off">"ปิด"</string>
+    <string name="not_set">"ไม่ได้ตั้งค่า"</string>
+    <string name="preference_copied">"คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว"</string>
+    <string name="v7_preference_on">"เปิด"</string>
+    <string name="sesl_preferencecategory_added_title">ส่วนหัว</string>
+    <string name="expand_button_title">"ขั้นสูง"</string>
+    <string name="copy">"คัดลอก"</string>
+    <string name="summary_collapsed_preference_list">"%1$s %2$s"</string>
+</resources>
