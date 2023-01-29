@@ -5,7 +5,7 @@
   <img loading="lazy" src="readme-res/sesl-readme-header.png"/>
 </p>
 
-## Samsung Experience Support Library (One UI 4.x)
+## Samsung Experience Support Library (One UI 5.x)
 This is the repository for the Samsung Experience Support Library (internally referenced as sesl).
 
 Samsung's One UI apps are created by using a heavily modified version of Google's [Android Jetpack](https://github.com/androidx/androidx) and [Material Components](https://github.com/material-components/material-components-android) libraries, that include (but are not limited to) a new theme for the UI, new APIs and much more.
@@ -39,8 +39,8 @@ Any form of contribution, suggestions, bug report or feature request will be wel
 To use these libraries in your project, simply add the dependencies in your build.gradle file:
 ```groovy
 dependencies {
-    implementation 'io.github.oneuiproject.sesl:appcompat:<version>'
-    implementation 'io.github.oneuiproject.sesl:material:<version>'
+    implementation 'io.github.leexda21.sesl5:appcompat:<version>'
+    implementation 'io.github.leexda21.sesl5:material:<version>'
     // ...
 }
 ```
